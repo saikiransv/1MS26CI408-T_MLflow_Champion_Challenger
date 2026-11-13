@@ -247,11 +247,4 @@ AI assistance was used for learning, implementation guidance, debugging, documen
 - The model predictions and disagreements are available in the `outputs/` directory.
 - The registered Champion can be accessed through the `champion` alias in MLflow.
 - The MLflow tracking database and downloaded model files are excluded from Git version control.
-## 17. Reproducibility Notes
 
-- Run all commands from the project root directory.
-- Use the same evaluation dataset for both models.
-- The final comparison results are recorded in `outputs/metrics_summary.json`.
-- The model predictions and disagreements are available in the `outputs/` directory.
-- The registered Champion can be accessed through the `champion` alias in MLflow.
-- The MLflow tracking database and downloaded model files are excluded from Git version control.
