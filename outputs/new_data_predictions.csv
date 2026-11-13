@@ -1,0 +1,9 @@
+id,text,predicted_label,sentiment,confidence,model_version,hf_model_id
+1,The performance was outstanding and exceeded my expectations.,1,positive,0.9996335506439209,6,textattack/bert-base-uncased-SST-2
+2,I regret buying this product because it stopped working immediately.,0,negative,0.998582124710083,6,textattack/bert-base-uncased-SST-2
+3,"The story was interesting, but the ending felt disappointing.",0,negative,0.9963209629058838,6,textattack/bert-base-uncased-SST-2
+4,Absolutely loved the experience from beginning to end.,1,positive,0.9996153116226196,6,textattack/bert-base-uncased-SST-2
+5,The service was slow and the staff were unhelpful.,0,negative,0.994906485080719,6,textattack/bert-base-uncased-SST-2
+6,It is an average experience with nothing particularly special.,0,negative,0.9973360896110535,6,textattack/bert-base-uncased-SST-2
+7,A brilliant film with excellent acting and beautiful visuals.,1,positive,0.9997124075889587,6,textattack/bert-base-uncased-SST-2
+8,I would never recommend this to anyone.,1,positive,0.8627258539199829,6,textattack/bert-base-uncased-SST-2

@@ -1,0 +1,29 @@
+﻿# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# MLflow tracking data
+mlruns/
+mlflow.db
+mlflow.db-shm
+mlflow.db-wal
+
+# Downloaded model weights and cache
+models/
+.cache/
+huggingface_cache/
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Generated project listing
+project_structure.txt

@@ -1,0 +1,7 @@
+text,actual_label,model_A_prediction,model_B_prediction,comment
+the film tunes into a grief that could lead a man across centuries . ,1,0,1,Emotional and abstract language may lead to different interpretations.
+"you 'll gasp appalled and laugh outraged and possibly , watching the spectacle of a promising young lad treading desperately in a nasty sea , shed an errant tear . ",1,0,1,Mixed emotional expressions combine positive and negative sentiment.
+true tale of courage -- and complicity -- at auschwitz is a harrowing drama that tries to tell of the unspeakable . ,1,0,1,Negative emotional vocabulary appears alongside praise for courage.
+"pumpkin means to be an outrageous dark satire on fraternity life , but its ambitions far exceed the abilities of writer adam larson broder and his co-director , tony r. abrams , in their feature debut . ",0,1,0,Satirical language may cause ambiguity in sentiment classification.
+a solid film ... but more conscientious than it is truly stirring . ,1,1,0,Positive praise is qualified by a contrasting criticism.
+"it moves quickly , adroitly , and without fuss ; it does n't give you time to reflect on the inanity -- and the cold war datedness -- of its premise . ",1,1,0,Positive descriptive words appear alongside criticism of the premise.
