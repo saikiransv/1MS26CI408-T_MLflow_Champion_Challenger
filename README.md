@@ -238,3 +238,20 @@ Overall, this project demonstrates experiment tracking, model evaluation, perfor
 ## 16. AI Assistant Declaration
 
 AI assistance was used for learning, implementation guidance, debugging, documentation preparation, and understanding the MLflow workflow. The project scripts were executed and the reported experimental results were obtained from the project environment.
+
+## 17. Reproducibility Notes
+
+- Run all commands from the project root directory.
+- Use the same evaluation dataset for both models.
+- The final comparison results are recorded in `outputs/metrics_summary.json`.
+- The model predictions and disagreements are available in the `outputs/` directory.
+- The registered Champion can be accessed through the `champion` alias in MLflow.
+- The MLflow tracking database and downloaded model files are excluded from Git version control.
+## 17. Reproducibility Notes
+
+- Run all commands from the project root directory.
+- Use the same evaluation dataset for both models.
+- The final comparison results are recorded in `outputs/metrics_summary.json`.
+- The model predictions and disagreements are available in the `outputs/` directory.
+- The registered Champion can be accessed through the `champion` alias in MLflow.
+- The MLflow tracking database and downloaded model files are excluded from Git version control.
